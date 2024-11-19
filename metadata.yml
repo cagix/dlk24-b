@@ -1,0 +1,36 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Bielefelder Monsterjagd - ein Praxisbeispiel
+description: >-
+  Der Beitrag stellt die Erfahrungen beim Einsatz der "Bielefelder Monsterjagd"
+  vom DigikoS-Projekt in einem Programmiermodul im zweiten Semester vor. Wir
+  stellen dabei die Monsterjagd kurz vor und gehen auf die Einrichtung im ILIAS
+  und die Möglichkeiten des Frameworks ein.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://github.com/cagix/dlk24-b
+creator:
+  - givenName: Carsten
+    familyName: Gips
+    id: https://orcid.org/0000-0002-4230-9060
+    type: Person
+    affiliation:
+      name: Hochschule Bielefeld
+      id: https://ror.org/00edvg943
+      type: Organization
+  - givenName: Henrik
+    familyName: Pruisken
+    type: Person
+    affiliation:
+      name: Hochschule Bielefeld
+      id: https://ror.org/00edvg943
+      type: Organization
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-11-20'
